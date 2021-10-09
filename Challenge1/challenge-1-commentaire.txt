@@ -1,0 +1,43 @@
+
+Question 1
+/
+
+Question2 
+
+radiographie : 
+
+We notice that the contrast of the image is better, in deed the image has been calibrated 
+(it doesn't necessarily give you a better image)
+
+we see for example that for the chest that shades of gray became black and white became 
+darker allowing better discernment of the elements present on the radiograph
+on the other hand for the knee we can see clearly that increasing the contrast does 
+not always make the image more readable
+
+
+histogramme :
+
+We notice that on the histogram of the unmodified images the data does not occupy all the x axis 
+(representing the possible levels of gray that the pixels take) 
+we notice that the histogram after the equalization has not changed its shape but better covers the whole gray spectrum
+
+
+
+Question 3
+The change in contrast is applied to the entire image and thus the noise, 
+which can lead to a loss of useful information with an increase in noise
+
+Question 4 
+
+we can see that they are no change, in deed the image has already undergone the change to have a better gray scale 
+
+
+
+
+
+
+
+
+
+
+mettre les formes
